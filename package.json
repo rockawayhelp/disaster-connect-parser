@@ -1,0 +1,21 @@
+{
+  "name": "disaster-connect-parser",
+  "version": "0.0.0",
+  "description": "Parse incoming messages for the Disaster Connect app",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/rockawayhelp/disaster-connect-parser"
+  },
+  "keywords": [
+    "parser"
+  ],
+  "author": "Steve Kinney",
+  "license": "MIT",
+  "devDependencies": {
+    "mocha": "~1.10.0"
+  }
+}
